@@ -1,0 +1,12 @@
+c:\users\sam\documents\visual studio 2015\Projects\Lab2Ex2\Lab2Ex2\bin\Debug\Lab2Ex2.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\Lab2Ex2\Lab2Ex2\bin\Debug\Lab2Ex2.exe
+c:\users\sam\documents\visual studio 2015\Projects\Lab2Ex2\Lab2Ex2\bin\Debug\Lab2Ex2.pdb
+c:\users\sam\documents\visual studio 2015\Projects\Lab2Ex2\Lab2Ex2\obj\Debug\Lab2Ex2.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2015\Projects\Lab2Ex2\Lab2Ex2\obj\Debug\Lab2Ex2.exe
+c:\users\sam\documents\visual studio 2015\Projects\Lab2Ex2\Lab2Ex2\obj\Debug\Lab2Ex2.pdb
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 2\Lab2Ex2\Lab2Ex2\bin\Debug\Lab2Ex2.exe.config
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 2\Lab2Ex2\Lab2Ex2\bin\Debug\Lab2Ex2.exe
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 2\Lab2Ex2\Lab2Ex2\bin\Debug\Lab2Ex2.pdb
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 2\Lab2Ex2\Lab2Ex2\obj\Debug\Lab2Ex2.csprojAssemblyReference.cache
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 2\Lab2Ex2\Lab2Ex2\obj\Debug\Lab2Ex2.exe
+E:\Alan\University\BCS YEAR2 SEM5\C# Programming\Lab\Lab 2\Lab2Ex2\Lab2Ex2\obj\Debug\Lab2Ex2.pdb
